@@ -1,4 +1,4 @@
-# V2 - Inexpensive DIY Wi-Fi & BT speaker for Home Assistant audio; $50 using off-the-shelf parts. 
+# V2 - Inexpensive DIY Wi-Fi & BT speaker for Home Assistant audio; $60 using off-the-shelf parts. 
 
 ### Version 2. Inexpensive off-the-shelf passive speaker with added ESP32 controller and open source firmware for whole-home synchronized audio and TTS notifications with Home Assistant.
 
@@ -108,9 +108,9 @@ Links are for the actual product I purchased.
 
 | #    | Component                                                    | Qty        | Price | Notes                                                        |
 | ---- | ------------------------------------------------------------ | ---------- | ----- | ------------------------------------------------------------ |
-| 1    | [Saiyin Passive Bookshelf Speakers](https://www.amazon.com/dp/B0DGLMY9SB) | 2 cabinets | $36   |                                                              |
-| 2    | [Sonocotta LOUD ESP32](https://www.elecrow.com/loud-esp32.html) | 1          | $20   | ESP32 with integrated DAC & AMP; <br />no Ethernet module; <br/>optional $5 RPi case to protect the circuit board<br/>**buy two if modifying both speakers.** |
-| 3    | [USB-C Panel Mount Cable](https://www.amazon.com/dp/B09HWSFRP1) | 1          | $10   | **buy two if modifying both speakers.**                      |
+| 1    | [Saiyin Passive Bookshelf Speakers](https://www.amazon.com/dp/B0DGLMY9SB) | 2 cabinets | $36   | $19/speaker                                     |
+| 2    | [Sonocotta LOUD ESP32](https://www.elecrow.com/loud-esp32.html) | 1          | $25   | ESP32 with integrated DAC & AMP; <br />no Ethernet module; <br/>optional $5 RPi case to protect the circuit board<br/>**buy two if modifying both speakers.** |
+| 3    | [USB-C Panel Mount Cable](https://www.amazon.com/dp/B09HWSFRP1) | 1          | $12   | **buy two if modifying both speakers.**                      |
 | 4    | Optional back plate                                          | 1          | $1    | If you have access to a 3D printer, print the 1.5" square plate (STL file included).  Otherwise, you can drill a small hole for the cable.<br/> **print two if modifying both speakers.** |
 
 
