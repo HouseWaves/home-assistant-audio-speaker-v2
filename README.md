@@ -100,7 +100,7 @@ And at least initially, I will be selling through Etsy and will add links here w
 
 ---
 
-Prices shown are approximate USD and do not include shipping, taxes or customs fees.
+Prices shown are approximate USD and include shipping, taxes and customs fees.
 
 Speakers are sold in pairs, but other parts are sold individually. Adjust if you plan to build both.
 
