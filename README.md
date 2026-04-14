@@ -106,7 +106,7 @@ Speakers are sold in pairs, but other parts are sold individually. Adjust if you
 
 Links are for the actual product I purchased.
 
-Update: APR 04, 2026: I've been asked by many people wanting a US-based seller of Sonocotta ESP32 boards. I will place an order for extra boards, USB-C cables and the 3D printed plates to sell as parts kits. I should be able to sell all three items for close to the same price as you'd pay for them individually. I expect to have the items in 16-21 days.
+Update: APR 04, 2026: I've been <b>asked by many people wanting a US-based seller for ESP32 boards.<b/> I will place an order for extra boards, USB-C cables and the 3D printed plates to sell as parts kits. I should be able to sell all three items for close to the same price as you'd pay for them individually. I expect to have the items in 16-21 days.<br/>
 
 
 | #    | Component                                                    | Qty        | Price | Notes                                                        |
