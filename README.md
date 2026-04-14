@@ -108,7 +108,7 @@ Links are for the actual product I purchased.
 
 | #    | Component                                                    | Qty        | Price | Notes                                                        |
 | ---- | ------------------------------------------------------------ | ---------- | ----- | ------------------------------------------------------------ |
-| 1    | [Saiyin Passive Bookshelf Speakers](https://www.amazon.com/dp/B0DGLMY9SB) | 2 cabinets | $39   | $20/speaker                                     |
+| 1    | [Saiyin Passive Bookshelf Speakers](https://www.amazon.com/dp/B0DGLMY9SB) | 2 cabinets | $39   | $20/speaker, or search for Saiyin	SDS6400M      |
 | 2    | [Sonocotta LOUD ESP32](https://www.elecrow.com/loud-esp32.html) | 1          | $25   | ESP32 with integrated DAC & AMP; <br />no Ethernet module; <br/>optional $5 RPi case to protect the circuit board<br/>**buy two if modifying both speakers.** |
 | 3    | [USB-C Panel Mount Cable](https://www.amazon.com/dp/B09HWSFRP1) | 1          | $12   | **buy two if modifying both speakers.**                      |
 | 4    | Optional back plate                                          | 1          | $1    | If you have access to a 3D printer, print the 1.5" square plate (STL file included).  Otherwise, you can drill a small hole for the cable.<br/> **print two if modifying both speakers.** |
