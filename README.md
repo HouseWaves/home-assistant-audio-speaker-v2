@@ -126,6 +126,7 @@ Update: APR 04, 2026: I've been <b>asked by many people wanting a US-based selle
 - Wire cutter/stripper
 - Pliers (tighten the cable retaining nut)
 - Electric drill and 5/8" drill bit -- OR -- access to 3D printer
+  Pro-tip: If drilling, a "brad-point" drill bit will provide a cleaner hole; the cabinet is made of MDF with PVC covering.
 - Computer and USB-C cable (firmware install)
 
 
