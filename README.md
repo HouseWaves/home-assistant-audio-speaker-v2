@@ -34,6 +34,8 @@
 
 - A documented process to easily create your own inexpensive, commercially available passive loudspeaker into a Wi-Fi active speaker for use with Home Assistant.
 - A DIY guide to adding an inexpensive, off-the-shelf ESP32-based controller with integrated DAC, DSP and AMP inside an existing speaker cabinet and flash with open source firmware (Squeezelite, SendSpin, ESPHome).
+    UPDATED - APRIL 26, 2026. Optional instructions added to install ESPHome firmware for use with SendSpin streaming protocol.<br/>
+    See README - ESPHOME with SendSpin Firmware.md
 - A viable alternative to using Sonos for whole-home, multi-room synchronized audio, streaming music and home automation notifications using Music Assistant.
 - **Part of a planned series modifying a range of speakers at multiple price points and corresponding sound quality.**
   — see [What's Next](#whats-next) for planned future builds for high-fidelity, subwoofer and smart options.
