@@ -11,7 +11,19 @@
 
 - [35 sec video demo on Reddit - see this speaker, proof-of-concept, and upcoming V3 in action](https://www.reddit.com/user/HouseWaves/comments/1s5jeez/demo_video_tease_starting_lineup_for_diy_home/) 
 
-  
+
+
+---
+
+## Build it - or Buy it
+
+I've made this project very simple and fast to build.
+
+But not everyone has the time or desire for a DIY project.
+
+If that's you, please check out our [Option to Purchase - Already Assembled](#option-to-purchase---already-assembled)
+
+
 
 ---
 
@@ -80,9 +92,7 @@ I'm hoping to start a company.  During my research, I found commenters on DIY fo
 
 So this is my boot strap option with a commitment to remain open source.  I am specifically creating speakers for use exclusively with Home Assistant and based on existing off-the-shelf speaker models that can be easily modified by the DIYer.  For those individuals who would prefer to purchase a speaker fully assembled and tested, well...that's the market I'd like to help with...I want to be the RATGDO of the Sonos market space.
 
-My commercial site will be [GetHouseWaves.com]() with contact forms and details to order direct.
-
-And at least initially, I will be selling through Etsy and will add links here when they are ready. 
+Please check out my site, [GetHouseWaves.com]()  to order using Shopify.
 
 
 
@@ -92,7 +102,7 @@ And at least initially, I will be selling through Etsy and will add links here w
 
 - You will power using an ESP32 board called "LOUD" by Sonocotta. The volume is more than sufficient for this speaker, but the power is limited. Using an upgraded board (e.g. their "LOUDER" model) could likely damage this speaker at high volumes.
 
-- Speakers benefit from "run-in" time to loosen the driver suspension and improves audio quality over time. We recommend playing at lower (under 70%) volume settings for at least 100 hours before testing its limits.
+- *Speakers benefit from "run-in" time to loosen the driver suspension and improves audio quality over time.* We recommend playing at lower (under 50%) volume setting for at least 100 hours before testing its limits.
 
   
 
