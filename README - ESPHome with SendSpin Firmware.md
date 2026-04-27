@@ -14,8 +14,8 @@
 
 ## See and Hear it
 
-- VIDEO - SIDE BY SIDE COMPARISON OF STREAMING with SQUEEZELITE vs SENDSPIN
-  (COMING SOON)
+- [VIDEO - SIDE BY SIDE COMPARISON OF STREAMING with SQUEEZELITE vs SENDSPIN](https://www.youtube.com/watch?v=yusFQKQjKN4)
+  The main thing to pick out is the first three seconds on playback using SendSpin: the audio will start/stop several times as the streaming management begin playback quickly (DAC turned on within 160ms) while it struggles to keep up with all the tasks underway (getting packets, negotiating the handshake, management of time synchronization, etc). 
   
   
 
