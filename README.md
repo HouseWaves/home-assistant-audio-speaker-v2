@@ -30,15 +30,28 @@ If that's you, please check out our [Option to Purchase - Already Assembled](#op
 ## Table of Contents
 
 - [What This Is](#what-this-is)
+
 - [Motivation](#motivation)
+
 - [Option to Purchase - Already Assembled](#option-to-purchase---already-assembled)
+
 - [Caveats & Limitations](#caveats--limitations)
+
 - [Parts & Materials](#parts--materials)
+
 - [Tools Required](#tools-required)
+
 - [Build Time](#build-time)
+
 - [Step-by-Step Build Guide](#step-by-step-build-guide)
+
 - [What's Next](#whats-next)
+
 - [Credits & References](#credits--references)
+
+- [Non-Commercial Use Only](#non---commercial-use-only)
+
+  
 
 ---
 
@@ -365,16 +378,32 @@ This is **Build #2** in a planned series of passive-to-active speaker conversion
 ## Credits & References
 
 - [Sonocotta Loud ESP32 Documentation](https://github.com/sonocotta/loud-esp)
-
 - [Squeezelite Loud ESP32 Firmware Installation Page](https://sonocotta.github.io/esp32-audio-dock/)
-
 - [Squeezelite-ESP32 GitHub Page](https://github.com/sle118/squeezelite-esp32)
-
 - [Music Assistant for Home Assistant](https://music-assistant.io/)
-
 - [Home Assistant Media Player Integration](https://www.home-assistant.io/integrations/media_player/)
 
-  
+
+
+---
+
+## Non-Commercial Use Only
+
+##### SUMMARY (For details, please read LICENSE.md)
+
+I developed this speaker modification to be accessible to everyone for learning and enjoyment. To keep the project's spirit alive and ensure it remains open for the Home Assistant and Music Assistant community, here is how I define the boundaries of the **CC BY-NC 4.0** license:
+
+### ✅ What is Encouraged (Personal & Academic)
+
+- **Personal Use, Gifting, Education and Modding.**
+
+### ❌ What is Prohibited (Commercial)
+
+- **Selling Finished Units, Paid Assembly Services, Commercial Production of Units, Commercial Content.**
+
+> **The "Materials Fee" Exception:** If you are organizing a community build or a school workshop, charging a "at-cost" fee to cover the raw price of components (drivers, filament, boards) is perfectly fine. As long as you aren't making a profit on my engineering and documentation, you are within the spirit of the license.
+
+
 
 ---
 
